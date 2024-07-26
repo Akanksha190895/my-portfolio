@@ -1,0 +1,143 @@
+body {
+    background-color: rgb(176, 239, 218);
+}
+
+.welcome {
+    mix-blend-mode: darken;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: 500px;
+    top: 60%;
+}
+
+h4 {
+    font-family: cursive;
+    color: burlywood;
+    text-align: center;
+}
+
+u {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategrey;
+    text-align: center;
+}
+
+.mypfp img {
+    height: 300px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 250px;
+}
+
+.hello img {
+    mix-blend-mode: darken;
+    height: 250px;
+    margin-left: 950px;
+}
+
+.about p {
+    font-family: cursive;
+    color: rgb(131, 95, 4);
+    text-align: center;
+    margin-left: 600px;
+    margin-right: 250px;
+}
+
+.about h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 600px;
+    color: rgb(88, 76, 76);
+}
+
+.Quali img {
+    mix-blend-mode: darken;
+    height: 200px;
+    margin-left: 1050px;
+}
+
+.Quali h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(88, 76, 76);
+    margin-left: 450px;
+}
+
+.Quali ul {
+    font-family: cursive;
+    color: rgb(131, 95, 4);
+    margin-left: 550px;
+}
+
+.skill img {
+    mix-blend-mode: normal;
+    height: 300px;
+    margin-left: 50px;
+}
+
+.skill h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(88, 76, 76);
+    margin-left: 150px;
+}
+
+.skill p {
+    font-family: cursive;
+    color: rgb(131, 95, 4);
+    margin-left: 200px;
+    margin-right: 600px;
+}
+
+.skill h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(131, 95, 4);
+    margin-left: 200px;
+    margin-right: 600px;
+}
+
+footer {
+    background-color: rgb(82, 242, 188);
+    ;
+}
+
+.footercontainer {
+    width: 100%;
+    padding: 10px 10px;
+}
+
+.icon {
+
+    display: flex;
+    justify-content: center;
+}
+
+.icon a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.icon a i {
+    font-size: 2em;
+    color: rgb(68, 110, 184)
+}
+
+.icon a:hover {
+    background-color: cadetblue;
+    transition: 0.5s;
+}
+
+.sub {
+    margin-left: 700px;
+
+}
+
+.copy {
+    background-color: rgb(100, 206, 170);
+    padding: 10px;
+    text-align: center;
+}
+
+.copy p {
+    color: rgb(77, 141, 141);
+}
